@@ -1,0 +1,45 @@
+{
+  "name": "@teamgi/strapi-provider-email-sendinblue",
+  "version": "1.0.0",
+  "description": "Sparkpost provider for strapi email",
+  "homepage": "https://github.com/graphicintuitions/strapi-provider-email-sparkpost",
+  "keywords": [
+    "email",
+    "strapi",
+    "sendinblue"
+  ],
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib",
+  "dependencies": {
+    "sib-api-v3-sdk": "^7.1.2"
+  },
+  "strapi": {
+    "isProvider": true
+  },
+  "author": {
+    "email": "eddy@bordi.fr",
+    "name": "Eddy Bordi",
+    "url": "https://bordi.fr"
+  },
+  "maintainers": [
+    {
+      "email": "eddy@bordi.fr",
+      "name": "Eddy Bordi",
+      "url": "https://bordi.fr"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:eddybordi/strapi-provider-email-sendinblue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eddybordi/strapi-provider-email-sendinblue/issues"
+  },
+  "engines": {
+    "node": ">= 10.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "license": "MIT"
+}
