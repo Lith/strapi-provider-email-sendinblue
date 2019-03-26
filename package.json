@@ -1,8 +1,8 @@
 {
-  "name": "@teamgi/strapi-provider-email-sendinblue",
-  "version": "1.0.0",
+  "name": "strapi-provider-email-sendinblue",
+  "version": "1.0.1",
   "description": "Sparkpost provider for strapi email",
-  "homepage": "https://github.com/graphicintuitions/strapi-provider-email-sparkpost",
+  "homepage": "https://github.com/eddybordi/strapi-provider-email-sendinblue",
   "keywords": [
     "email",
     "strapi",
