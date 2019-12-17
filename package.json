@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-email-sendinblue",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Sendinblue provider for strapi email",
   "homepage": "https://github.com/eddybordi/strapi-provider-email-sendinblue",
   "keywords": [
