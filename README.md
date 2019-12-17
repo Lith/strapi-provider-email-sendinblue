@@ -2,7 +2,10 @@
 
 ## How to
 
-``cd ./plugins/email``, run ``npm install strapi-provider-email-sendinblue --save``, restart Strapi and go to "Emails - Settings" in your admin dashboard (/plugins/email/configurations/development), choose the Sendinblue provider and fill the form!
+1. Run `npm install strapi-provider-email-sendinblue --save`
+2. Restart Strapi
+3. Go to `Plugins > Email` in your admin dashboard and click the configure icon. You should end up at `/plugins/email/configurations/development`
+4. Choose the Sendinblue provider and fill the form.
 
 ## Resources
 
