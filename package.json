@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-email-sendinblue",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Sendinblue provider for strapi email",
   "homepage": "https://github.com/eddybordi/strapi-provider-email-sendinblue",
   "keywords": [
@@ -13,7 +13,7 @@
   },
   "main": "./lib",
   "dependencies": {
-    "sib-api-v3-sdk": "^7.1.2"
+    "sib-api-v3-sdk": "^8.2.0"
   },
   "strapi": {
     "isProvider": true
@@ -38,8 +38,8 @@
     "url": "https://github.com/eddybordi/strapi-provider-email-sendinblue/issues"
   },
   "engines": {
-    "node": ">= 10.0.0",
-    "npm": ">= 6.0.0"
+    "node": ">= 12.x.x",
+    "npm": ">= 6.x.x"
   },
   "license": "MIT"
 }
