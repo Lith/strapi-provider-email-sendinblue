@@ -1,8 +1,8 @@
 {
   "name": "strapi-provider-email-sendinblue",
-  "version": "1.0.6",
+  "version": "4.0.0",
   "description": "Sendinblue provider for strapi email",
-  "homepage": "https://github.com/eddybordi/strapi-provider-email-sendinblue",
+  "homepage": "https://github.com/lith/strapi-provider-email-sendinblue",
   "keywords": [
     "email",
     "strapi",
@@ -13,7 +13,7 @@
   },
   "main": "./lib",
   "dependencies": {
-    "sib-api-v3-sdk": "^8.2.0"
+    "sib-api-v3-sdk": "^8.2.1"
   },
   "strapi": {
     "isProvider": true
@@ -36,14 +36,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:eddybordi/strapi-provider-email-sendinblue.git"
+    "url": "git@github.com:lith/strapi-provider-email-sendinblue.git"
   },
   "bugs": {
-    "url": "https://github.com/eddybordi/strapi-provider-email-sendinblue/issues"
+    "url": "https://github.com/lith/strapi-provider-email-sendinblue/issues"
   },
   "engines": {
-    "node": ">= 12.x.x",
-    "npm": ">= 6.x.x"
+    "node": ">=12.x.x <=16.x.x",
+    "npm": ">=6.0.0"
   },
   "license": "MIT"
 }
